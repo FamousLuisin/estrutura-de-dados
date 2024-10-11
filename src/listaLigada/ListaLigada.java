@@ -1,4 +1,4 @@
-package src;
+package src.listaLigada;
 
 public class ListaLigada<T> {
     private Elemento<T> primeiro;

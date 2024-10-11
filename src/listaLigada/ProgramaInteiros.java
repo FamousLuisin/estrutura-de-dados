@@ -1,4 +1,4 @@
-package src;
+package src.listaLigada;
 
 public class ProgramaInteiros {
 

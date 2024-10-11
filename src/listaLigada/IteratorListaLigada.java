@@ -1,4 +1,4 @@
-package src;
+package src.listaLigada;
 
 public class IteratorListaLigada<T> {
     private Elemento<T> elemento;

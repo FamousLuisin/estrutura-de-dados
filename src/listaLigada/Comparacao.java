@@ -1,7 +1,6 @@
-package src;
+package src.listaLigada;
 
 import java.util.ArrayList;
-import java.util.LinkedList;
 
 public class Comparacao {
 
